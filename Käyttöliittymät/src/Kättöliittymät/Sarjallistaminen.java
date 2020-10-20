@@ -48,8 +48,6 @@ public class Sarjallistaminen {
 			fis.close();
 			
 			
-			int koko = ja.getKaakao();
-			
 			
 			
 			return ja;
